@@ -1,0 +1,11 @@
+# Python >= 3.10. Versions used to produce the maps (2026-10-22).
+geopandas==1.2.0
+pyogrio==0.13.0
+shapely==2.2.0
+pyproj==3.8.0
+pandas==3.1.0
+numpy==2.5.4
+matplotlib==3.11.2
+requests==2.34.2
+duckdb==2.0.0
+pyarrow==26.0.0
